@@ -17,6 +17,7 @@ This repo contains the content that's used to create the **[Hugging Face course]
 | [Thai](https://huggingface.co/course/th/chapter1/1) (WIP) | [`chapters/th`](https://github.com/huggingface/course/tree/main/chapters/th) | [@peeraponw](https://github.com/peeraponw), [@a-krirk](https://github.com/a-krirk), [@jomariya23156](https://github.com/jomariya23156), [@ckingkan](https://github.com/ckingkan) |
 | [Turkish](https://huggingface.co/course/tr/chapter1/1) (WIP) | [`chapters/tr`](https://github.com/huggingface/course/tree/main/chapters/tr) | [@tanersekmen](https://github.com/tanersekmen), [@mertbozkir](https://github.com/mertbozkir), [@akkasayaz](https://github.com/akkasayaz), [@ftarlaci](https://github.com/ftarlaci) |
 
+
 ### Translating the course into your language
 
 As part of our mission to democratise machine learning, we'd love to have the course available in many more languages! Please follow the steps below if you'd like to help translate the course into your language 🙏.
